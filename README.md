@@ -41,6 +41,7 @@ To get a local copy up and running follow these simple example steps.
 ## Contact
 
 Project Link: [https://github.com/IgorAlshuk/react-tips-calculator.git](https://github.com/github_username/repo_name)
+[https://igoralshuk.github.io/react-tips-calculator/](https://github.com/github_username/repo_name)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
